@@ -2,7 +2,6 @@
 using Microsoft.Dexterity.Bridge;
 using Microsoft.Dexterity.Applications;
 using Microsoft.Dexterity.Applications.DynamicsDictionary;
-//using Microsoft.Office.Interop.Excel;
 
 namespace GP2015
 {
